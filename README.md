@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Sarthak Malakar 👋
 
-<!--
-**malakarsarthak/malakarsarthak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Developer | AI & Web Applications  
+🎓 B.Tech + M.Tech (IoT), DAVV Indore  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Java (Core, Advanced)  
+- Spring Boot, Spring MVC, Hibernate  
+- FastAPI, Node.js  
+- MySQL, MongoDB  
+- REST APIs, JWT Authentication  
+
+---
+
+## 🚀 Key Projects
+
+### 🐄 Breed Vision – AI-Based Breed Identification
+- Built full-stack AI application using React, Node.js, MongoDB, FastAPI  
+- Integrated ResNet model → improved accuracy by 18%  
+- Designed REST APIs with JWT authentication  
+- Real-time prediction from uploaded images  
+
+---
+
+### 🏢 iMarble – Business Management System
+- Backend system using Spring Boot & MySQL  
+- Role-based authentication (Admin, Manager, Receptionist)  
+- Designed scalable REST APIs with Hibernate ORM  
+- Optimized CRUD operations and ensured data integrity  
+
+---
+
+## 🏆 Achievements
+- 🥇 Smart India Hackathon 2025 Finalist (Top 2 / 500+ teams)  
+- 🎯 Ranked 226 / 10,000+ (CUET Merit List)  
+- 🎓 Medhavi Scholarship Awardee  
+
+---
+
+## 📫 Contact Me
+- 📧 sarthakmalakar2004@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/sarthak-malakar  
