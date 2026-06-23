@@ -9,7 +9,7 @@
 - Java (Core, Advanced)  
 - Spring Boot, Spring MVC, Hibernate  
 - FastAPI
-- MySQL, MongoDB  
+- MySQL
 - REST APIs, JWT Authentication  
 
 ---
@@ -41,4 +41,4 @@
 
 ## 📫 Contact Me
 - 📧 sarthakmalakar2004@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/sarthak-malakar  
+- 🔗 LinkedIn: https://www.linkedin.com/in/sarthak-malakar-515070314
