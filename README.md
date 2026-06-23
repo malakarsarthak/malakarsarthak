@@ -8,7 +8,7 @@
 ## 🔧 Tech Stack
 - Java (Core, Advanced)  
 - Spring Boot, Spring MVC, Hibernate  
-- FastAPI, Node.js  
+- FastAPI
 - MySQL, MongoDB  
 - REST APIs, JWT Authentication  
 
@@ -17,7 +17,7 @@
 ## 🚀 Key Projects
 
 ### 🐄 Breed Vision – AI-Based Breed Identification
-- Built full-stack AI application using React, Node.js, MongoDB, FastAPI  
+- Built full-stack AI application using React, SpringBoot, MySQL, FastAPI  
 - Integrated ResNet model → improved accuracy by 18%  
 - Designed REST APIs with JWT authentication  
 - Real-time prediction from uploaded images  
